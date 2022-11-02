@@ -26,7 +26,7 @@ This was optimized for running on local machines, and on Google Colab. Here are 
 ## Working with Google Colab environment:
 
 **Note: Before working, there should be a folder in your Google Drive named 'AutoIDCardGenerator'. 
-The drive must be set-up as follows:**
+The drive must be set-up as follows:** \
 <img src='resources/directory_struct.jpg' width='500px'></img>
 ```diff 
 + The imgs folder will contain all the images of the people
